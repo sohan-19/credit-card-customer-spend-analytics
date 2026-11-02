@@ -579,11 +579,6 @@ The filenames above are a suggested organisation. Update them to match the actua
 - Business Analysis
 - Business Recommendations
 
-## Acknowledgements
-
-I would like to express my sincere gratitude to **Shivang Sir** for his valuable guidance, feedback, and support throughout this capstone project.
-
-I am also thankful to **Imarticus Learning** for providing the learning environment and opportunity to apply my analytical skills through a practical project.
 
 ## Author
 
